@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { IconButton } from '@mui/material';
 import LibraryAdd from '@mui/icons-material/LibraryAdd';
-import MTH734 from './MTH734';
+import MTH734 from './MTH734'
 
 export default function MTHCourse() {
     return (

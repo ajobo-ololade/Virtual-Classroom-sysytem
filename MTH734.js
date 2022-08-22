@@ -4,7 +4,7 @@ import Grid from '@mui/material/Grid';
 import { Box, IconButton } from '@mui/material';
 import DeleteOutline from '@mui/icons-material/DeleteOutline';
 import NoteAltOutlinedIcon from '@mui/icons-material/NoteAltOutlined';
-import AttachFileOutlinedIcon from '@mui/icons-material/AttachFileOutlined';
+import AttachFileOutlinedIcon from '@mui/icons-material/AttachFileOutlined'
 
 // function preventDefault(event) {
 //     event.preventDefault();

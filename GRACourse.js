@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { IconButton } from '@mui/material';
 import LibraryAdd from '@mui/icons-material/LibraryAdd';
-import GRA415 from './GRA415';
+import GRA415 from './GRA415'
 
 export default function GRACourse() {
     return (

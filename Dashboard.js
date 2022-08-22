@@ -16,7 +16,7 @@ import Widgets from '@mui/icons-material/Widgets';
 import AccountCircle from '@mui/icons-material/AccountCircle';
 import NotificationsIcon from '@mui/icons-material/Notifications';
 import { mainListItems } from './listItems';
-import NavTab from './NavTab';
+import NavTab from './NavTab'
 
 
 // const preventDefault = (event) => event.preventDefault();

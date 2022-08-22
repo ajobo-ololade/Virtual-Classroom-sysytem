@@ -8,7 +8,7 @@ import TabUnstyled, { tabUnstyledClasses } from '@mui/base/TabUnstyled';
 import CSECourse from './CSECourse';
 import GRACourse from './GRACourse';
 import MTHCourse from './MTHCourse';
-import GNSCourse from './GNSCourse';
+import GNSCourse from './GNSCourse'
 
 const blue = {
     50: '#F0F7FF',

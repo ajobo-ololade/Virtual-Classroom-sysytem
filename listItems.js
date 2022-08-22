@@ -4,7 +4,7 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import Speed from '@mui/icons-material/Speed';
 import Groups from '@mui/icons-material/Groups';
-import LibraryAdd from '@mui/icons-material/LibraryAdd';
+import LibraryAdd from '@mui/icons-material/LibraryAdd'
 
 
 export const mainListItems = (

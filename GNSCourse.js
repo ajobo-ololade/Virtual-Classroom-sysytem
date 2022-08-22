@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { IconButton } from '@mui/material';
 import LibraryAdd from '@mui/icons-material/LibraryAdd';
-import GNS405 from './GNS405';
+import GNS405 from './GNS405'
 
 export default function GNSCourse() {
     return (

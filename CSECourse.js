@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import { IconButton } from '@mui/material';
 import LibraryAdd from '@mui/icons-material/LibraryAdd';
-import CSE177 from './CSE177';
+import CSE177 from './CSE177'
 
 export default function CSECourse() {
     return (
